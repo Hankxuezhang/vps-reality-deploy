@@ -1,0 +1,22 @@
+# Local evidence includes credentials visible in the supplied tutorial.
+/analysis/
+**/runtime/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/*.py[cod]
+/.cache/
+/dist/
+/pytest-cache-files-*/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.db
+*.db-*
+*.log
+*.mp4
+*.zip
+*.tar.gz
+.DS_Store

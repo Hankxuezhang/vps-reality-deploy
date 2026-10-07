@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "deployment_id": "customer-demo",
+  "ssh": {
+    "host": "203.0.113.10",
+    "port": 22,
+    "username": "root",
+    "password_env": "VPS_SSH_PASSWORD",
+    "sudo_password_env": "VPS_SUDO_PASSWORD",
+    "trust_on_first_use": true,
+    "request_pty": false
+  },
+  "server": {
+    "public_host": "203.0.113.10",
+    "proxy_port": 443,
+    "subscription_port": 2096,
+    "profile": "tutorial-compatible",
+    "reality_targets": [
+      "www.amd.com:443",
+      "www.nvidia.com:443"
+    ],
+    "enable_bbr": true,
+    "firewall": "auto"
+  },
+  "client": {
+    "name": "我的 VPS",
+    "email": "customer-demo",
+    "traffic_gb": 0,
+    "expiry_time": 0
+  },
+  "verification": {
+    "auto_download": true
+  }
+}
+

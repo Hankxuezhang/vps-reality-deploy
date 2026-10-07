@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS 自动搭建"
+  short_description: "自动部署 VPS REALITY 节点，处理客户端兼容并生成三种交付物"
+  default_prompt: "使用 $vps-reality-deploy，根据我提供的 VPS 登录资料完成部署、验证并生成 v2rayN 链接、Clash 订阅和小火箭二维码。"

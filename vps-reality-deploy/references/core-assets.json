@@ -1,0 +1,77 @@
+{
+  "xray/v26.7.28/windows-amd64": {
+    "name": "Xray-windows-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.7.28/Xray-windows-64.zip",
+    "sha256": "c7172078fca4711bcd92a4774dcd1822544579c58816197575c47533317fd8d1"
+  },
+  "xray/v26.7.28/linux-amd64": {
+    "name": "Xray-linux-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.7.28/Xray-linux-64.zip",
+    "sha256": "8195d909f1109b8f3d99eefe401a3c451d7bf4af71f24d3815420f77e5dd2a40"
+  },
+  "xray/v26.7.28/linux-arm64": {
+    "name": "Xray-linux-arm64-v8a.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.7.28/Xray-linux-arm64-v8a.zip",
+    "sha256": "f5698bb218ada3b4022db26fafc39601c5f53b46b19eb76c9616325985807501"
+  },
+  "xray/v26.7.28/darwin-amd64": {
+    "name": "Xray-macos-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.7.28/Xray-macos-64.zip",
+    "sha256": "812f7d9de6d3506795eabda2f6928ba301c632c3fe6fa39c52ea8e0ed9e4e244"
+  },
+  "xray/v26.7.28/darwin-arm64": {
+    "name": "Xray-macos-arm64-v8a.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.7.28/Xray-macos-arm64-v8a.zip",
+    "sha256": "9b99a351febe31b7e0c7f22deeb1577a1da0b98aaa51aec7fd17832e68cf63d6"
+  },
+  "xray/v26.9.9/windows-amd64": {
+    "name": "Xray-windows-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.9.9/Xray-windows-64.zip",
+    "sha256": "244deaba2098c2964e49bba90df3707777e5f5f428a82d2f29604015f24beec2"
+  },
+  "xray/v26.9.9/linux-amd64": {
+    "name": "Xray-linux-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.9.9/Xray-linux-64.zip",
+    "sha256": "1eb9175d0f0a8f8149c9230a7fc5ae66ce332ed20a53155ce61fe62e3f58b7df"
+  },
+  "xray/v26.9.9/linux-arm64": {
+    "name": "Xray-linux-arm64-v8a.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.9.9/Xray-linux-arm64-v8a.zip",
+    "sha256": "3e38d72dfc5eb65c91df0e5583e9b6676c32232041da47de6ae73946b526d66c"
+  },
+  "xray/v26.9.9/darwin-amd64": {
+    "name": "Xray-macos-64.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.9.9/Xray-macos-64.zip",
+    "sha256": "32b5d106b9936f3ae2044cd283d9e22749b57fd30b34a58792b86c90018bb5e4"
+  },
+  "xray/v26.9.9/darwin-arm64": {
+    "name": "Xray-macos-arm64-v8a.zip",
+    "url": "https://github.com/XTLS/Xray-core/releases/download/v26.9.9/Xray-macos-arm64-v8a.zip",
+    "sha256": "b7cf765d60ccc703853d4218c49a1eacc5bca764543b9540bdeaf45c951afc7d"
+  },
+  "mihomo/v1.19.30/windows-amd64": {
+    "name": "mihomo-windows-amd64-compatible-v1.19.30.zip",
+    "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-windows-amd64-compatible-v1.19.30.zip",
+    "sha256": "289fde5e29d37a5b3326480590d8b3551c5bf7f8737290355c19bce74d57a563"
+  },
+  "mihomo/v1.19.30/linux-amd64": {
+    "name": "mihomo-linux-amd64-compatible-v1.19.30.gz",
+    "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-linux-amd64-compatible-v1.19.30.gz",
+    "sha256": "db214c7a2517e63c150d123178d16d102e03a241ccdae4e5e07ffbe9cf56c6f9"
+  },
+  "mihomo/v1.19.30/linux-arm64": {
+    "name": "mihomo-linux-arm64-v1.19.30.gz",
+    "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-linux-arm64-v1.19.30.gz",
+    "sha256": "58896873736d28628f66de3677c8654fa0f180662523148e136cff4f6e890069"
+  },
+  "mihomo/v1.19.30/darwin-amd64": {
+    "name": "mihomo-darwin-amd64-compatible-v1.19.30.gz",
+    "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-darwin-amd64-compatible-v1.19.30.gz",
+    "sha256": "6e75de0732e8afabe413ff7c235e8f16226ce136672371c60787cbf9607402c5"
+  },
+  "mihomo/v1.19.30/darwin-arm64": {
+    "name": "mihomo-darwin-arm64-v1.19.30.gz",
+    "url": "https://github.com/MetaCubeX/mihomo/releases/download/v1.19.30/mihomo-darwin-arm64-v1.19.30.gz",
+    "sha256": "2c7f3a7904fa1cee291e124123e630e7b1ebd13765dd9bf26c0a28432004d9f4"
+  }
+}
