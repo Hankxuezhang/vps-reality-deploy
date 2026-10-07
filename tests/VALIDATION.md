@@ -26,4 +26,8 @@
 
 本节检查使用合成配置和模拟服务端。当时没有真实 VPS 凭据，未实际执行远端安装、证书签发、云防火墙变更、代理出口连接或手机联网测试。之后的用户实测反馈记录于上一节。
 
-GitHub Actions 工作流已提供，尚未在 GitHub 上执行。Linux/macOS 本机路径、不同远端系统/架构和客户端版本的具体覆盖情况，按 LIVE_ACCEPTANCE.md 与用户补充的实际结果记录。
+## GitHub Actions 检查（2026-10-07）
+
+[首次公开仓库自动测试](https://github.com/Hiworld666666/vps-reality-deploy/actions/runs/37600900294)已成功完成。`ubuntu-latest`、`windows-latest` 分别搭配 Python 3.11 和 3.14，四组任务均通过依赖安装、编译检查、40 项离线行为测试及白名单打包。
+
+GitHub 托管测试覆盖本机运行环境的离线检查，不等同于远端 VPS 部署或手机端网络验收。macOS 本机路径、不同远端系统/架构和客户端版本的具体覆盖情况，按 LIVE_ACCEPTANCE.md 与用户补充的实际结果记录。
