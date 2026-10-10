@@ -2,8 +2,6 @@
 
 面向 Codex / Claude 的 VPS 自动搭建 Skill：SSH + sudo -i 部署 3X-UI、VLESS TCP REALITY、Vision，交付 **v2rayN 链接、Clash/Mihomo HTTPS 订阅、小火箭二维码**。
 
-基于用户提供的视频实现；不分发视频或其中的凭据。默认保留教程兼容组合，另有显式现代组合，见 [依据](vps-reality-deploy/references/compatibility.md)。
-
 ## 安装
 
 将 vps-reality-deploy 整个目录复制到技能目录：
